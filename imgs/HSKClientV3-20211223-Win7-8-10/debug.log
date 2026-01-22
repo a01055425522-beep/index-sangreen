@@ -1,3 +1,0 @@
-[0109/202600.761:ERROR:broker_win.cc(134)] Error sending sync broker message: 파이프가 닫히는 중입니다. (0xE8)
-[0110/102403.000:ERROR:broker_win.cc(134)] Error sending sync broker message: 파이프가 닫히는 중입니다. (0xE8)
-[0110/143607.740:ERROR:broker_win.cc(134)] Error sending sync broker message: 파이프가 닫히는 중입니다. (0xE8)
